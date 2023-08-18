@@ -2,7 +2,7 @@
     <img width="300" src="https://github.com/Rahulfordev/img-file/blob/main/profile.gif">
 </p>
 <H1> 👨‍💻 Profile </H1>
-<h3 align="center">Hi 👋, I'm &#60;Rahul Ali/&#62; , A &#60;code-passionate&#62;&#60;/code-passionate&#62; Full Stack developer from Bangladesh</h3>
+<h3 align="center">Hi 👋, I'm &#60;Rahul Ali/&#62; , A &#60;code-passionate&#62;&#60;/code-passionate&#62; Frontend Web Developer.</h3>
 
 <h4 align = "center" >I am currently doing react.js.I Consider myself as a skilled JavaScript Developer.I like problems as they enable us to change our way of thinking.</h4>
 
