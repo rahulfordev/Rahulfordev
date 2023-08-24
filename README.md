@@ -11,7 +11,7 @@
 
  - 🌱 &nbsp; All of my projects are available at [My Portfolio]()
 
- - 💬 &nbsp; Ask me about **React**
+ - 💬 &nbsp; Ask me about **JavaScript **
 
  - ⚡ &nbsp; Fun fact **C and Java is good, Python is better but JavaScript is the Best.**
 
