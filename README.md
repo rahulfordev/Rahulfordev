@@ -1,5 +1,5 @@
  <p align="center" width="100%">
-    <img src="https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif">
+   <img src="https://github.com/Rahulfordev/img-file/blob/main/profile.gif">
 </p>
 <H1> 👨‍💻 Profile </H1>
 <h3 align="center">Hi 👋, I'm &#60;Rahul Ali/&#62; , A &#60;code-passionate&#62;&#60;/code-passionate&#62; Full Stack developer from Bangladesh</h3>
