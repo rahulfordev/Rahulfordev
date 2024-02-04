@@ -12,6 +12,8 @@
 
  - 🌱 &nbsp; All of my projects are available at [My Portfolio](https://rahulfordev.vercel.app/)
 
+ - 🌱 I’m currently learning Redux, Next.js
+
  - 💬 &nbsp; Ask me about **React**
 
  - ⚡ &nbsp; Fun fact **C and Java is good, Python is better but JavaScript is the Best.**
