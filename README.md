@@ -2,7 +2,7 @@
    <img src="https://github.com/Rahulfordev/img-file/blob/main/profile.gif">
 </p>
 <H1> 👨‍💻 Profile </H1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulfordev&label=Profile%20views&color=0e75b6&style=flat" alt="rahulfordev" /> </p>
+ 
 <h3 align="center">Hi 👋, I'm &#60;Rahul Ali/&#62; , A &#60;code-passionate&#62;&#60;/code-passionate&#62; Frontend web developer from Bangladesh</h3>
 
 <h4 align = "center" >I am currently doing react.js.I Consider myself as a skilled JavaScript Developer.I like problems as they enable us to change our way of thinking.</h4>
