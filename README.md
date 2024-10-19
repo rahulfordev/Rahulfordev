@@ -13,30 +13,6 @@
 
  - 💬 &nbsp; Ask me about **React, Next, Redux, Typescript and Vue.js**
 
-
-<h1> A Fact 🔥</h1>
-<p align="center">
-<H3> I am a die hard Javascript Fanboy and One thing you should know about JavaScript is :</H3>
- <H5> JavaScript is the only language that I’m aware of that people feel they don’t need to learn before they start using it.  - Douglas Crockford</H5>
-</p>
-
-
-### Pictorial Representation of What I try to do and What I end Up Doing  😜 
-
-<a href="#" >
-
-
-
-<img aling="left" width="200" src="https://github.com/Rahulfordev/img-file/blob/main/black.png" width="40%"/>
-</a>
-
-<a href="#" >
-    
-
-    
-<img aling="right" width="200" src="https://github.com/Rahulfordev/img-file/blob/main/white.png" width="40%"/>
-</a>
-
 <br/>
 <br/>
 <br/>
