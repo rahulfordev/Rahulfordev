@@ -10,6 +10,8 @@
 - 🌱 I’m currently learning Docker, CI/CD, AWS (S3, CloudFront, EC2, Amplify), and server setup with Nginx (reverse proxy, load balancing).
 
  - 💬 &nbsp; Ask me about **React, Next, Redux, Typescript and Vue.js**
+   
+ - 📫 How to reach me **frahulali@gmail.com**
 
 ## 📊 Github Stats
 
