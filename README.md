@@ -1,5 +1,3 @@
-<H1> 👨‍💻 Profile </H1>
- 
 <h3 align="center">Hi 👋, I'm Rahul Ali</h3>
 
 <h4 align = "center" >I am currently doing Next.js.I Consider myself as a skilled JavaScript Developer.I like problems as they enable us to change our way of thinking.</h4>
