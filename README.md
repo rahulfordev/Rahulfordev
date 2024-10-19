@@ -13,8 +13,6 @@
 
  - 💬 &nbsp; Ask me about **React, Next, Redux, Typescript and Vue.js**
 
-<br/>
-
 ## 📊 Github Stats
 
 <div align="center">
