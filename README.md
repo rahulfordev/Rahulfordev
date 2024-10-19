@@ -9,7 +9,7 @@
 
  - 🌱 &nbsp; All of my projects are available at [My Portfolio](https://rahulfordev.vercel.app/)
 
- - 🌱 I’m currently learning Redux, Next.js
+- 🌱 I’m currently learning Docker, CI/CD, AWS (S3, CloudFront, EC2, Amplify), and server setup with Nginx (reverse proxy, load balancing).
 
  - 💬 &nbsp; Ask me about **React, Next, Redux, Typescript and Vue.js**
 
