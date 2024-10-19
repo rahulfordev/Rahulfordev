@@ -2,7 +2,7 @@
  
 <h3 align="center">Hi 👋, I'm Rahul Ali</h3>
 
-<h4 align = "center" >I am currently doing react.js.I Consider myself as a skilled JavaScript Developer.I like problems as they enable us to change our way of thinking.</h4>
+<h4 align = "center" >I am currently doing Next.js.I Consider myself as a skilled JavaScript Developer.I like problems as they enable us to change our way of thinking.</h4>
 
 
  - 👀 &nbsp; I’m interested in **learning technical stuffs** and **building real-world applications**
@@ -11,11 +11,7 @@
 
  - 🌱 I’m currently learning Redux, Next.js
 
- - 💬 &nbsp; Ask me about **React**
-
- - ⚡ &nbsp; Fun fact **C and Java is good, Python is better but JavaScript is the Best.**
-
-
+ - 💬 &nbsp; Ask me about **React, Next, Redux, Typescript and Vue.js**
 
 
 <h1> A Fact 🔥</h1>
