@@ -1,15 +1,15 @@
 <h3 align="center">Hi 👋, I'm Rahul Ali</h3>
 
-<h4 align = "center" >I am currently doing Next.js.I Consider myself as a skilled JavaScript Developer.I like problems as they enable us to change our way of thinking.</h4>
+<h4 align = "center" >A passionate Full-Stack developer</h4>
 
 
  - 👀 &nbsp; I’m interested in **learning technical stuffs** and **building real-world applications**
 
  - 🌱 &nbsp; All of my projects are available at [My Portfolio](https://rahulfordev.vercel.app/)
 
-- 🌱 I’m currently learning Docker, CI/CD, AWS (S3, CloudFront, EC2, Amplify), and server setup with Nginx (reverse proxy, load balancing).
+- 🌱 I’m currently learning **Amazon Web Services**
 
- - 💬 &nbsp; Ask me about **React, Next, Redux, Typescript and Vue.js**
+ - 💬 &nbsp; Ask me about **MERN, PERN**
    
  - 📫 How to reach me **frahulali@gmail.com**
 
