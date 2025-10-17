@@ -11,7 +11,7 @@
 
  - 💬 &nbsp; Ask me about **MERN, PERN**
    
- - 📫 How to reach me **frahulali@gmail.com**
+ - 📫 How to reach me **mdrahulali.dev@gmail.com**
 
 ## 📊 Github Stats
 
